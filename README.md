@@ -17,12 +17,12 @@ Then based on each hand gesture detected we can call a function which resembles 
 
 X and Y coordinate values of every landmark indexes in each frame
 
-
-![image](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/89a350b9-7825-494a-b927-e8ab33877ad7)
+![Screenshot 2024-10-30 213158](https://github.com/user-attachments/assets/64f8a200-04f1-474c-8f34-68f3ee36ed12)
 In the above image as you can see my index and little finger are up so its 1 and the middle and ring are folded so its 0.
 
 
-![image](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/0180272b-ea26-42e3-9f7b-e54b66459871)
+![Screenshot 2024-10-30 213652](https://github.com/user-attachments/assets/f36a09ad-3630-4017-bbe7-0f53bc4d8a45)
+
 
 Called a specific function to a specific gesture
 
@@ -41,7 +41,8 @@ Human Figure Detection: The project leverages Google's Mediapipe library to dete
 Body Landmark Extraction: It captures body landmark coordinates from each consecutive frame of the video.
 Action Classification: The extracted coordinates are then fed into an LSTM model to classify the actions into predefined categories.
 The model was initially trained on three basic hand movements to fine-tune the action recognition capability.
-![Human-Body-Landmarks](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/7c408382-154b-4e90-9584-eabc32975484)
+
+![Human-Body-Landmarks](https://github.com/user-attachments/assets/3b6c003e-564e-41d9-9c5e-b8c7ca97bbc8)
 
 ## Applications
 The potential applications of this project include:
