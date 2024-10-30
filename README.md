@@ -10,10 +10,11 @@ For example when we show the "call me hand gesture"  our thumb tip index is at t
 
 Then based on each hand gesture detected we can call a function which resembles the gesture, like we can define and call a function to voice call someone when the "call me" gesture is shown by the user
 
-![HandLandmarks](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/2af50c10-1c3b-4947-b8c7-5680fc283ec0)
+![Human-Hand-Landmarks](https://github.com/user-attachments/assets/b2143083-221d-48d3-9a1c-60daa6838094)
 
 
-![image](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/f4e23555-197c-440c-93ca-b86d9cf0b58d)
+![Screenshot 2024-10-30 214305](https://github.com/user-attachments/assets/9c43b2cf-154d-4279-8bac-9707b5e4f56c)
+
 X and Y coordinate values of every landmark indexes in each frame
 
 
